@@ -1,5 +1,5 @@
 # BookStore
-* SSH Framework Demo
+* 在SSH Framework Demo上加了一层restful webservice，为appDemo做server
 # Steps
 * File->Import->Git->Projects from Git->Next->Clone URI->[https://github.com/SeniYuting/BookStore](https://github.com/SeniYuting/BookStore)->User/Password
 * Right Click->Properties->Project Facets->Convert to faceted form
