@@ -10,4 +10,4 @@
 * 若出现timeout问题，双击Tomcat v8.0 Servers->将启动时间限制放大，右边，选择timeouts->Start设置为1000
 * Right Click->Run as->Maven install->BUILD SUCCESS
 * Right Click->Run as->Run on Server
-* 访问[http://localhost:8080/BookStore/allBooksPro](http://localhost:8080/BookStore/allBooksPro)
+* 访问  http://localhost:8080/BookStore/rest/
