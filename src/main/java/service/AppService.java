@@ -21,6 +21,8 @@ public interface AppService {
 	public Integer addBook(Book book);
 
 	public void deleteBook(Book book);
+	
+	public void deleteBookById(int id);
 
 	public void updateBook(Book book);
 

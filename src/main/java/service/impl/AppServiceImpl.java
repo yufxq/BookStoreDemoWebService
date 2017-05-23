@@ -51,6 +51,11 @@ public class AppServiceImpl implements AppService {
 	public void deleteBook(Book book) {
 		bookDao.delete(book);
 	}
+	
+	public void deleteBookById(int id) {
+		Book thibook=bookDao.getBookById(id);
+		bookDao.delete(thibook);
+	}
 
 	public void updateBook(Book book) {
 		bookDao.update(book);

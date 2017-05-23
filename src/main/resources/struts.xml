@@ -4,6 +4,7 @@
 	"-//Apache Software Foundation//DTD Struts Configuration 2.1.7//EN"
 	"http://struts.apache.org/dtds/struts-2.1.7.dtd">
 <struts>
+	<constant name="struts.action.excludePattern" value="/rest/.*" />  
 	<constant name="struts.i18n.encoding" value="utf-8" />
 	<constant name="struts.devMode" value="true" />
 	<package name="process" extends="struts-default">
