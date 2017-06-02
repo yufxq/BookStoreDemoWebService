@@ -1,7 +1,7 @@
 # BookStore
 * 在SSH Framework Demo上加了一层restful webservice，为appDemo做server
 # Steps
-* File->Import->Git->Projects from Git->Next->Clone URI->[https://github.com/SeniYuting/BookStore](https://github.com/SeniYuting/BookStore)->User/Password
+* File->Import->Git->Projects from Git->Next->Clone URI->[https://github.com/yufxq/BookStoreDemoWebService.git](https://github.com/SeniYuting/BookStore)->User/Password
 * Right Click->Properties->Project Facets->Convert to faceted form
 1. 左边Project Facet->选择Dynamic Web Module, Java, JavaScript
 2. 右边Runtimes->选择Apache Tomcat v8.0
